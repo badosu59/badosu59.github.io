@@ -1,0 +1,211 @@
+logo{
+    cursor: pointer;
+    margin-left: -60px;
+    position: relative;
+    left: -4%;
+}
+    li, a, button{
+        font-family: "Athena", sans-serif;font-weight: 500;font-size: 20px;color: #CFA819;
+        text-decoration: none;
+    }
+.nav_links{
+    list-style: none;
+}
+.nav_links li{
+        display: inline-block;padding: 10px;margin: 90pxs;
+}
+.nav_links li a {
+        transition: all 0.3s ease 0s;
+}
+    .nav_links li a:hover {
+        color: black;
+}
+    header
+{
+        background-color: #eee;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px 10%;
+}
+body{
+    background-color: black;
+}
+footer {
+    flex-shrink: 15;
+    border-top: 1px solid #000;
+    width: 100%;
+    position: absolute;
+    top: 75%;
+    background: #EEE;
+    color: #333;
+ }
+.content-footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 16px;
+    padding: 50px 0 100px;
+} 
+.bloc {
+    flex-basis: 20%;
+    margin: 0 30px;    
+}
+.icone{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+	align-items: center;
+
+} 
+.p5{
+    display: flex;
+    justify-content: center;
+    color: black	;
+}
+.p6{
+display: flex;
+flex-direction: column;
+align-items: center;
+color: black	;
+}
+.p4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black	;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  color: goldenrod;
+  flex-wrap: wrap;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap: wrap;
+}
+
+#btn1{
+    display: block;
+    position: absolute;
+    top: 39%;
+    left: 15%;
+    width: 70px;
+    height: 50px;
+    background-color: goldenrod;
+
+}
+
+#btn2{
+    display: inline;
+    position: absolute;
+    top: 39%;
+    left: 43%;
+    width: 70px;
+    height: 50px;
+    background-color: goldenrod;
+}
+
+#btn3{
+    display: inline;
+    position: absolute;
+    top: 39%;
+    left: 66%;
+    width: 70px;
+    height: 50px;
+    background-color: goldenrod;
+
+}
+
+#btn4{
+    display: inline;
+    position: absolute;
+    top: 39%;
+    right: 6%;
+    width: 70px;
+    height: 50px;
+    background-color: goldenrod;
+}
+
+.img{
+    display: flexbox;
+    width: 200px;
+    
+}
+
+.item1{
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-indent: 2%;
+    text-align: center;
+    color: white;
+}
+.res{
+    display: flex;
+}
+
+#logo{
+  display: flex;
+  width: 170px;
+  flex-wrap: nowrap;
+  margin-top: -4%;
+  
+}
+footer {
+
+    flex-shrink: 20;
+    
+    border-top: 1px solid #000;
+    
+    width: 100%;
+    position: absolute;
+    top: 67%;
+    
+    background: #fff;
+    
+    color: #333;
+    
+    }
+    
+    .content-footer {
+    
+    max-width: 1000px;
+    
+    margin: 0 auto;
+    
+    display: flex;
+    
+    justify-content: center;
+    
+    align-items: flex-start;
+    
+    font-size: 16px;
+    
+    padding: 50px 0 100px;
+    
+    } 
+    .bloc {
+    
+    flex-basis: 20%;
+    
+    margin: 0 30px;
+
+    }
+     

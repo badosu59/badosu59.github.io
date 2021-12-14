@@ -1,0 +1,188 @@
+logo{
+    cursor: pointer;
+    margin-left: -60px;
+    position: relative;
+    left: -4%;
+}
+    li, a, button{
+        font-family: "Athena", sans-serif;font-weight: 500;font-size: 20px;color: #CFA819;
+        text-decoration: none;
+    }
+.nav_links{
+    list-style: none;
+}
+.nav_links li{
+        display: inline-block;padding: 10px;margin: 90pxs;
+}
+.nav_links li a {
+        transition: all 0.3s ease 0s;
+}
+    .nav_links li a:hover {
+        color: black;
+}
+    header
+{
+        background-color: #eee;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px 10%;
+}
+footer {
+    flex-shrink: 15;
+    border-top: 1px solid #000;
+    width: 100%;
+    position: absolute;
+    top: 75%;
+    background: #fff;
+    color: #333;
+    }
+.content-footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 16px;
+    padding: 50px 0 100px;
+} 
+.bloc {
+    flex-basis: 20%;
+    margin: 0 30px;    
+}
+
+body{
+    background-color: black	;
+    margin: -3px;
+   
+}  
+
+.p1{
+        display: inline;
+        position:absolute;
+        top:32%;
+        left: 10%;
+        font-size: x-large;
+        color: white;
+    }
+ h1{
+        display: flex;
+        justify-content: center;
+        color: goldenrod;
+   
+    }
+h2{
+        display: flex;
+        justify-content: center ;
+        color: white;
+    }
+
+.Nom{
+    display: inline;
+    position:absolute;
+    top: 34%;
+    left: 45%;
+    color: white;
+}
+.prenom{
+    display: inline;
+    position:absolute;
+    top: 39%;
+    left: 60%;
+    color: white;
+    }
+   
+    .mail{
+        display: inline;
+        position:absolute;
+        top: 39%;
+        left: 45%;
+        color: white;
+    }
+    .numéro{
+        display: inline;
+        position:absolute;
+        top: 34%;
+        right: 32%;
+        color: white;
+    }
+    .message{
+        display: inline;
+        position:absolute;
+        top: 49%;
+        left:45%;
+        color: black;
+    }
+    #p3{
+       
+        display: inline;
+        position:absolute;
+        top: 45%;
+        left:45%;
+        color: white;
+    }
+    .p4{
+        
+        color: red;
+        top: 5%;
+        
+    }
+    .bouton{
+        display: inline;
+        position:absolute;
+        top: 62%;
+        left:45%;
+        border-radius: 2%;
+    }
+    .icone{
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    
+    } 
+    
+    footer {
+
+        flex-shrink: 20;
+        
+        border-top: 1px solid #000;
+        
+        width: 100%;
+        position: absolute;
+        top: 67%;
+        
+        background: #fff;
+        
+        color: #333;
+        
+        }
+        
+        .content-footer {
+        
+        max-width: 1000px;
+        
+        margin: 0 auto;
+        
+        display: flex;
+        
+        justify-content: center;
+        
+        align-items: flex-start;
+        
+        font-size: 16px;
+        
+        padding: 50px 0 100px;
+        
+        } 
+        .bloc {
+        
+        flex-basis: 20%;
+        
+        margin: 0 30px;
+    
+        }
+         

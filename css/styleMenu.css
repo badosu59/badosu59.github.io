@@ -1,0 +1,139 @@
+
+.logo{
+    cursor: pointer;
+    margin-left: -60px;
+    position: relative;
+    left: -4%;
+}
+    li, a, button{
+        font-family: "Athena", sans-serif;font-weight: 500;font-size: 20px;color: #CFA819;
+        text-decoration: none;
+    }
+.nav_links{
+    list-style: none;
+}
+.nav_links li{
+        display: inline-block;padding: 10px;margin: 90pxs;
+}
+.nav_links li a {
+        transition: all 0.3s ease 0s;
+}
+    .nav_links li a:hover {
+        color: black;
+}
+    header
+{
+        background-color: #eee;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px 10%;
+}
+footer {
+    flex-shrink: 15;
+    border-top: 1px solid #000;
+    width: 100%;
+    position: absolute;
+    top: 75%;
+    background: #fff;
+    color: #333;
+    }
+.content-footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 16px;
+    padding: 50px 0 100px;
+} 
+.bloc {
+    flex-basis: 20%;
+    margin: 0 30px;    
+}
+.icone{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#vert{
+   
+    width: 150px;
+    height: 150px;
+    bottom: 45%;
+    background-color: #eee;
+    position: absolute;
+    left: 40%;
+    border: 5px solid goldenrod;
+}
+#rouge{
+   
+    width: 150px;
+    height: 150px;
+    bottom: 45%;
+    background-color: #eee;
+    position: absolute;
+    left: 50%;
+    border: 5px solid goldenrod;
+}
+#or{
+    position: absolute;
+    bottom: 45%;
+    left: 60%;
+    width: 150px;
+    height: 150px;
+    background-color: #eee;
+    border: 5px solid goldenrod;
+}
+#p1{
+    position: absolute;
+    top: 23%;
+    text-align: center;
+    font-size: 150%;
+}
+#para3{
+    position: absolute;
+    top: 23%;
+    text-align: center;
+    font-size: 130%;
+}
+#para2{
+    position: absolute;
+    top: 23%;
+    text-align: center;
+    font-size: 130%;
+}
+body{
+    background-color: black;
+}
+.slide{
+        display: flex;
+        width  : 700px;
+        height : 170px;
+        background : white;
+        position: absolute;
+        border: 5px solid goldenrod;
+        top: 25%;
+        right: 35%;
+}
+#bandeau{
+    position: absolute;
+    top: -18%;
+    text-align: center;
+    font-size:190%;
+    color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: goldenrod;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;  
+}
